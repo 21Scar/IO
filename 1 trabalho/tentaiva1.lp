@@ -18,3 +18,5 @@ contentor10: x105 + x104 + x103 + x102 <=5;
 contentor10: x105 + x104 + x103 + x102 >=0;
 
 contentor11: x115 + x114 + x113 + x112 >=0;
+
+//ATENÇÃO, ESTE É O FICHEIRO LP ERRADO, USAR O OUTRO
